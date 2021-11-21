@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "airBnB_clone"
-  },
   "api": {
     "projectId": "bskif4qm",
     "dataset": "production"
+  },
+  "project": {
+    "name": "airBnB_clone"
   },
   "plugins": [
     "@sanity/base",

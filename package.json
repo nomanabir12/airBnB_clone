@@ -14,6 +14,7 @@
     "sanity"
   ],
   "dependencies": {
+    "@googlemaps/js-api-loader": "^1.12.9",
     "@sanity/base": "^2.22.0",
     "@sanity/core": "^2.22.0",
     "@sanity/default-layout": "^2.22.0",
